@@ -1,0 +1,8 @@
+
+.env
+.streamlit/secrets.toml
+chat_history.json
+chat_uploads/
+__pycache__/
+.venv/
+venv/
